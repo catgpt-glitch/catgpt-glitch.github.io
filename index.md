@@ -8,7 +8,10 @@ title: "(ΦωΦ) Catudp's blog"
 
 Hi, I’m catudp.
 I tinker with Raspberry Pi, SDR, and ADS-B reception.
+
+
 Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
+
 
 **23 Feb, 2026**
 [RTL-SDR Blog V4: Upgrade or Downgrade? – Part 1](blog/rtl-sdr-blog-v4-upgrade-or-downgrade-part-1.md)
