@@ -4,7 +4,7 @@ For this setup, I chose the USB Type-C version.**
 
 ![RTL-SDL-V4](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/rtlsdrv4.png)
 
-One important note: **the V4 requires the official V4-compatible driver** from the RTL-SDR Blog website.
+One important note: **the V4 requires the official V4-compatible driver** from the RTL-SDR Blog website.[https://www.rtl-sdr.com/V4/](https://www.rtl-sdr.com/V4/)
 
 
 ```
@@ -79,3 +79,6 @@ That had never happened under the same conditions before.
 (About **200 km / 124 miles** from my location.)
 
 _(Next post: what actually happened, and what I changed after that.)_
+
+
+[← Back to Home](/)
