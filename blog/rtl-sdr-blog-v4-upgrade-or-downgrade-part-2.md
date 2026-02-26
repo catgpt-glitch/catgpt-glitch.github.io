@@ -1,5 +1,6 @@
-**I started the RTL-SDR Blog V4 installation on Friday, Jan 30.**  
-I chose the USB Type-C version.
+**I installed the RTL-SDR Blog V4 on January 30.  
+The following morning (January 31), I compared the results against the baseline from January 28.  
+For this setup, I chose the USB Type-C version.**
 
 ![RTL-SDL-V4](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/rtlsdrv4.png)
 
@@ -39,16 +40,16 @@ After installing the driver, I searched for the best gain setting.
 I tested from **38 dB up to 49 dB**, observing a few minutes at each step.  
 I ended up using **48 dB**.
 
-However compared to my previous clone dongle, the V4 didn’t perform as I expected.  
+However, compared to my previous clone dongle, the V4 didn’t perform as I expected.  
 
 
 ### Short comparison (same time of day)
 
-Short comparison (same time of day)
+
 To reduce time-of-day bias, I compared the morning window on Jan 31 with the same morning window on Jan 28.
 
 
-The difference is easier to understand visually.
+The difference becomes clearer when viewed visually.
 **Example (simplified):**
 
 
@@ -64,14 +65,14 @@ Note: Y-axis differs because these are FR24 screenshots.
 - Jan 28: HITS 1000 / POSITIONS 500
     
 - Jan 31: HITS 400 / POSITIONS 200  
-    (Weather conditions were similar.)
+    (Weather conditions were comparable on both days, reducing environmental bias.)
     
 
 On Saturday morning, with many aircraft expected, I decided to revert.  
 Because the V4 driver is backward compatible, I **kept the driver installed**, kept **48 dB**, and swapped back to the **clone dongle**, then rebooted.
 
 I was in a hurry—thinking “I’ll fine-tune it later.”  
-But when I checked the PiAware map, I froze:
+But when I checked the PiAware map, I paused.
 
 **“Why am I suddenly seeing aircraft over Toyohashi?”** 
 That had never happened under the same conditions before. 
