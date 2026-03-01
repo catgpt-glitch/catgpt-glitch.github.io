@@ -78,7 +78,5 @@ But when I checked the PiAware map, I paused.
 That had never happened under the same conditions before. 
 (About **200 km / 124 miles** from my location.)
 
-_(Next post: what actually happened, and what I changed after that.)_
-
 
 [← Back to Home](/)
