@@ -16,7 +16,7 @@ half-wavelength 10.8 inch(275mm)
 
 
 - Orientation
-240°SE
+210°SW
 
 
 - Why chosen (ADS-B 1090MHz)
@@ -31,3 +31,4 @@ Telescopic antenna
 
 
 [← Back to Home](/)
+
