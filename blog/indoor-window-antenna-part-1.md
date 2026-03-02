@@ -20,7 +20,6 @@ Here is how it was installed.
 
 
 
-（・(ｪ)・）
-
 
 [← Back to Home](/)
+
