@@ -17,7 +17,7 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 
 
 **06 Mar, 2026**
-[Possible ADS-B Reflection by Mt. Fuji – Part 1 🗻](possible-ads-b-reflection-by-mt-fuji-part-1.md)
+[Possible ADS-B Reflection by Mt. Fuji – Part 1 🗻](blog/possible-ads-b-reflection-by-mt-fuji-part-1.md)
 
 
 **01 Mar, 2026**
