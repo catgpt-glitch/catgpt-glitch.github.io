@@ -1,4 +1,4 @@
-### Analysis of ChatGPT 5.2
+### Analysis of ChatGPT 5.3
 
 
 Purpose
@@ -6,7 +6,7 @@ Purpose
 
 In Part 1, I introduced the hypothesis that Mount Fuji may play a role in unusual ADS-B reception from the west–southwest sector.
 
-In this section, I asked ChatGPT 5.2 to analyze the data presented in Part 1 together with additional observations such as polar plots and reception statistics.
+In this section, I asked ChatGPT 5.3 to analyze the data presented in Part 1 together with additional observations such as polar plots and reception statistics.
 
 The goal is not to prove the hypothesis yet, but to examine whether the observed patterns are consistent with the idea.
 
