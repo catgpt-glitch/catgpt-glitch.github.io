@@ -7,6 +7,8 @@ Using a receiver height of 43 m and an aircraft altitude of 12,192 m, the estima
 
 **combined radio horizon**  
     4.12 × (√H1 + √H2)
+
+
 4.12 × (√43 + √12192) ≈ 481.9 km
 
 
