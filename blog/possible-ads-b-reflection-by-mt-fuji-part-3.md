@@ -39,7 +39,7 @@ Figure 3  Example aircraft track 👈️
 
 Tap image to enlarge🐈️
 
-**Figure 3b Distance**
+**Figure 3a Distance**
 [![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)
 
 **Figure 3b Reception area**
