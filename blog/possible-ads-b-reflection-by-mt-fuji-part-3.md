@@ -38,15 +38,16 @@ Figure 2  Polar reception plot
 Figure 3  Example aircraft track 👈️
 ```
 
-
-![reflection](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)
-
-
-![location2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)
+Tap image to enlarge🐈️
 
 
-![mountains](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)
+[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)
 
+
+[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)
+
+
+[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)
 
 
 [← Back to Home](/)
