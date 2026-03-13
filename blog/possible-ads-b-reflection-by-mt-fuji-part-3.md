@@ -42,13 +42,13 @@ Figure 3  Example aircraft track 👈️
 
 Tap image to enlarge🐈️
 
-
+**Figure 3a Distance**
 [![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)
 
-
+**Figure 3b reception area**
 [![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)
 
-
+**Mountain Locations**
 [![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)
 
 
