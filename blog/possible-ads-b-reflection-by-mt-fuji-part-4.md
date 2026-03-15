@@ -22,7 +22,7 @@ Then something even more puzzling occurred.
 ### Abnormal signal propagation?
 
 
-March 15, 2026.
+March 14, 2026.
 
 
 While reviewing my receiver statistics,
