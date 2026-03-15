@@ -36,7 +36,7 @@ where reception should have been impossible.
 
 
 Given the installation height and directional characteristics of my antenna,
-signals from the **north-east (NE)** sector should normally be blocked by terrain.
+signals from the **north-east (NE)** sector should normally be blocked by terrain and building.
 
 
 ![location03.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location03.png)
