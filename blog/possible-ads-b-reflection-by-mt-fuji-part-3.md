@@ -1,53 +1,77 @@
-### Reflection or Diffraction?
+### Possible ADS-B Reflection by Mt. Fuji
+As shown in Parts 1–3, faint UHF ADS-B signals occasionally appeared
+from the unusual western direction.
+
+Whether this is caused by reflection from Mount Fuji
+or by diffraction over surrounding mountain ridges
+remains unclear at this stage.
+
+This blog began with a simple observation.
+
+While listening to a conversation between amateur radio operators,
+I heard a comment that stayed in my mind:
+
+“If you point your antenna toward that local mountain,
+reflected signals travel surprisingly well.”
+
+That small remark became the starting point of this experiment.
+
+Then something even more puzzling occurred.
 
 
-In theory, the radio horizon between my receiving antenna and a cruising aircraft is large enough to allow long-distance ADS-B reception.
-Using a receiver height of 43 m and an aircraft altitude of 12,192 m, the estimated maximum radio line-of-sight distance is approximately:
-
-**Estimated combined radio horizon:**
+### Abnormal signal propagation?
 
 
-4.12 × (√H1 + √H2)
+March 14, 2026.
 
 
-4.12 × (√43 + √12192) ≈ 481.9 km
+While reviewing my receiver statistics,
+I noticed that ADS-B signals had appeared from a direction
+where reception should have been impossible.
 
-This suggests that long-range ADS-B reception is not unusual in itself.
-However, the real situation is more complicated than the ideal radio-horizon model.
 
-In practice, the area between my location and the west-southwest sector includes Mt. Fuji and surrounding mountain ranges, which can suppress or distort the direct path.
-The observed aircraft tracks do not always behave like simple line-of-sight reception.
-Some aircraft appear to drop out once, then reappear farther west.
+![03-14-01.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/03-14-01.png)
+![03-14-02.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/03-14-02.png)
+![03-14-03.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/03-14-03.png)
 
-This raises two possible explanations:
 
-Reflection from a mountain surface, including Mt. Fuji itself
+Given the installation height and directional characteristics of my antenna,
+signals from the **north-east (NE)** and east(E) sector should normally be blocked by terrain and building.
 
-Diffraction, where the signal bends around a ridge or peak into the shadowed region behind the obstacle
 
-In other words, the phenomenon may not be explained by a simple direct path alone.
-Terrain may play an important role in shaping what is actually received.
+![location03.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location03.png)
 
-At this stage, I cannot determine which mechanism is dominant. However, both mountain reflection and terrain diffraction remain plausible candidates.
-The theoretical radio horizon is long, but the actual reception path is constrained by terrain.
 
-```
-Figure 1  Observation geometry
-Figure 2  Polar reception plot
-Figure 3  Example aircraft track 👈️
-```
+However, the statistics showed reception at a distance of **232 nautical miles
+(about 430 km)**.
 
-Tap image to enlarge🐈️
+The dataset contained **124 hits beyond 150 nm**, corresponding to that direction.
 
-**Figure 3a Distance**
-[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/reflection.png)
+Based on the distance and geometry,
+the aircraft was likely flying along an international route
+over the Pacific Ocean off the coast of Miyagi Prefecture.
 
-**Figure 3b Reception area**
-[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/location2.png)
 
-**Mountain Locations**
-[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/mountains.png)
+![Japonyol.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/Japonyol.png)
+![fr24-01.png](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/fr24-01.png)
 
+
+At first glance this seems like an ordinary long-distance reception.
+
+But when the surrounding terrain and antenna orientation are considered,
+the geometry becomes difficult to ignore.
+
+Signals appear in a direction that should be shadowed,
+almost opposite to Mount Fuji.
+
+Whether this is related to reflection from Mount Fuji
+or diffraction across mountain ridges remains an open question.
+
+Future experiments will attempt to verify this possibility.
+
+For now, however, let us return to the original story—
+the replacement of the USB SDR dongle.
 
 
 [← Back to Home](/)
+
