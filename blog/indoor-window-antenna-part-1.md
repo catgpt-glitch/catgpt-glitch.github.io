@@ -1,4 +1,9 @@
 I started this project with a Raspberry Pi Zero 2 W and a cheap clone RTL-SDR dongle.
+
+My goal was simple:
+to see how far I could receive ADS-B aircraft signals
+using a small indoor antenna.
+
 For the antenna, I initially used a simple VHF/UHF window antenna attached indoors.
 Later, I switched to a V-shaped dipole for ADS-B reception.
 
@@ -28,7 +33,7 @@ I assumed any antenna near a window would work well.
 **Raspberry Pi Zero 2 W**
 
 The Raspberry Pi Zero 2 W is a compact single-board computer
-measuring only 65 mm × 30 mm.
+measuring only 65 mm × 30 mm (2.6inch × 1.18inch).
 
 Despite its small size, it features a quad-core CPU (RP3A0),
 providing roughly five times the performance of the original Raspberry Pi Zero.
