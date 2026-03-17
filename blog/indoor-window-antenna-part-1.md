@@ -1,64 +1,66 @@
-I started this project with a Raspberry Pi Zero 2 W and a cheap clone RTL-SDR dongle.
+### ADS-B (Automatic Dependent Surveillance–Broadcast)
 
-My goal was simple:
-to see how far I could receive ADS-B aircraft signals
-using a small indoor antenna.
+ADS-B operates in the 1090 MHz band, which belongs to the UHF spectrum.
+The wavelength at this frequency is approximately 275 mm (10.83 inches).
 
-For the antenna, I initially used a simple VHF/UHF window antenna attached indoors.
-Later, I switched to a V-shaped dipole for ADS-B reception.
+Because the frequency is relatively high and the wavelength is short,
+the signal tends to propagate in a straight line.
 
+In this respect it behaves somewhat like light:
+it does not easily bend around obstacles.
+Therefore reception becomes difficult in areas shadowed by objects such as
+buildings or mountains.
 
-**This was the first antenna I tried.**
-
-
-![window antenna](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/2025-12-16%20192545.jpg)
-
-
-At that time, I did not fully understand how antenna placement affects performance.
-I assumed any antenna near a window would work well.
+Aircraft transmit their transponder signals using this frequency,
+and ground antennas can receive these signals to track aircraft positions.
 
 
-**V-shaped dipole Antenna**
+Because of these characteristics,
+terrain such as mountains may strongly influence reception patterns.
 
 
-![dipole2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/2026-02-20%20221047.png)
+### Half-wave dipole antenna
 
 
-**Here is how it was installed.**
+A half-wave dipole antenna is one of the most fundamental antenna designs.
+It consists of a conductor with a total length of approximately half a wavelength.
+
+This antenna typically provides a gain of about 2.15 dBi
+and has a figure-eight radiation pattern.
+
+The input impedance is around 73 ohms,
+making it highly efficient and easy to match with many radio systems.
+
+Because of its simplicity and efficiency,
+the half-wave dipole is widely used in radio and wireless communication.
 
 
-![diagram](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/diagram.png)
+### V-shaped dipole Antenna Specs
 
 
-**Raspberry Pi Zero 2 W**
-
-The Raspberry Pi Zero 2 W is a compact single-board computer
-measuring only 65 mm × 30 mm (2.6inch × 1.18inch).
-
-Despite its small size, it features a quad-core CPU (RP3A0),
-providing roughly five times the performance of the original Raspberry Pi Zero.
-
-Specifications include:
-
-• 512 MB RAM  
-• Built-in Wi-Fi and Bluetooth 4.2  
-• microSD storage  
-• mini HDMI output  
-• micro-USB ports  
-• CSI-2 camera connector  
-• 40-pin GPIO header
-
-Operating System:
-Raspberry Pi OS (Bookworm, 64-bit Lite – headless configuration)
+- Length
+half-wavelength 10.8 inch(275mm)
 
 
-Applications:
-• dump1090 – ADS-B signal decoder  
-• fr24feed – FlightRadar24 feeder software  
-• Tailscale – VPN for remote access and operation
+- Orientation
+210°SW
+
+    
+- Why chosen (ADS-B 1090MHz)
+Telescopic antenna
 
 
-![rpizero2w](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/rpizero2w.jpg)
+![dipole1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/dipole.png)
+
+
+### Measured Results
+
+
+Statistics (early configuration)
+Aircraft seen: 557
+Max range: 66 nm
+Gain: 38–40 dB
+Antenna height: FL+70 inch (1788 mm)🐈️
 
 
 [← Back to Home](/)
