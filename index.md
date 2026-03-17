@@ -6,7 +6,7 @@ title: "(ΦωΦ) Catudp's blog"
 # (ΦωΦ) Catudp's blog
 
 
-Hi, I’m catudp.
+Hi, I’m catudp🐈️
 I tinker with Raspberry Pi, SDR, and ADS-B reception.
 
 
