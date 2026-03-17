@@ -15,6 +15,10 @@ Aircraft transmit their transponder signals using this frequency,
 and ground antennas can receive these signals to track aircraft positions.
 
 
+Because of these characteristics,
+terrain such as mountains may strongly influence reception patterns.
+
+
 ### Half-wave dipole antenna
 
 
