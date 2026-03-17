@@ -13,15 +13,16 @@ At that time, I did not fully understand how antenna placement affects performan
 I assumed any antenna near a window would work well.
 
 
-**Here is how it was installed.**
-
-
-![diagram](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/diagram.png)
-
 **V-shaped dipole Antenna**
 
 
 ![dipole2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/2026-02-20%20221047.png)
+
+
+**Here is how it was installed.**
+
+
+![diagram](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202602/diagram.png)
 
 
 **Raspberry Pi Zero 2 W**
