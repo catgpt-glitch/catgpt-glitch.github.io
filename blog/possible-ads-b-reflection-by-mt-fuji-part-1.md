@@ -9,7 +9,13 @@
 
 Mount Fuji, the symbolic mountain of Japan, is visible from the window of my apartment.
 
+
 My ADS-B receiving antenna is installed indoors near that window.
+
+
+After improving the receiver and antenna setup,
+an unexpected reception pattern began to appear.
+
 
 Observation environment:
 
@@ -56,9 +62,6 @@ However, a reflected path via Mount Fuji could allow the signal to reach the rec
 Aircraft cruising altitude typically ranges between 30,000 and 40,000 feet,
 while Mount Fuji rises to 12,388 feet above sea level.
 The receiving antenna is located approximately 14 feet above ground level.
-
-
-
 
 
 [← Back to Home](/)
