@@ -57,8 +57,7 @@ FR24 ranking includes a metric called:
 
 Uptime (% of available time)
 
-In my case, this value is always above 95%.
-
+In my case, this value is consistently close to 100%.
 
 
 ![ranking1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/ranking1.png)
@@ -199,7 +198,7 @@ Reliable operation often matters more than peak performance.
 *****
 
 
-Next, the focus shifts beyond the Earth.
+Next, the focus shifts beyond the Earth🌍️
 
 The next series will explore
 building a reception system for signals from the International Space Station🚀 (ISS),
