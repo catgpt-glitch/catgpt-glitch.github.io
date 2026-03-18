@@ -55,8 +55,8 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 
 
 **21 Feb, 2026**
-[Indoor Window Antenna – Part 2: Measured Results](blog/indoor-window-antenna-part-2-measured-results.md)
+[Indoor Window Antenna – Part 2: Measured Results 📡](blog/indoor-window-antenna-part-2-measured-results.md)
 
 
 **21 Feb, 2026**
-[Indoor Window Antenna – Part 1](blog/indoor-window-antenna-part-1.md)
+[Indoor Window Antenna – Part 1 📡](blog/indoor-window-antenna-part-1.md)
