@@ -18,6 +18,10 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 *****
 
 
+**18 Mar, 2026**
+[RTL-SDR Blog V4: Upgrade or Downgrade? – Part 4 (Final)](blog/rtl-sdr-blog-v4-upgrade-or-downgrade-part-4.md)
+
+
 **15 Mar, 2026**
 [Possible ADS-B Reflection by Mt. Fuji – Part 4 🗻](blog/possible-ads-b-reflection-by-mt-fuji-part-4.md)
 
