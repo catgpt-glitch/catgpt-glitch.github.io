@@ -38,7 +38,7 @@ Instead of using a commercial VPN, I used my own VPS as an Exit Node.
 Step 1 – Enable forwarding on VPS:
 
 
-```batch
+```bash
 sudo nano /etc/sysctl.d/99-tailscale.conf
 net.ipv6.conf.all.forwarding=1
 net.ipv4.ip_forward=1
@@ -49,7 +49,7 @@ sudo sysctl --system
 Step 2 – Advertise Exit Node:
 
 
-```batch
+```bash
 sudo tailscale up --advertise-exit-node --accept-dns=false --ssh
 ```
 
@@ -57,7 +57,7 @@ sudo tailscale up --advertise-exit-node --accept-dns=false --ssh
 Step 3 – Raspberry Pi:
 
 
-```batch
+```bash
 sudo tailscale up --exit-node=<VPS-name> --accept-dns=false --ssh
 ```
 
@@ -65,7 +65,7 @@ sudo tailscale up --exit-node=<VPS-name> --accept-dns=false --ssh
 ### Verification
 
 
-```batch
+```bash
 curl -4 ifconfig.me
 ```
 
