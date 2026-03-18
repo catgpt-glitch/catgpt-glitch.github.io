@@ -70,7 +70,7 @@ that monitors the receiver status and recovers from stalls.
 *This does not handle hardware failures such as router outages.
 
 
-```
+```bash
 sudo tee /usr/local/bin/adsb-watchdog.sh >/dev/null <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
