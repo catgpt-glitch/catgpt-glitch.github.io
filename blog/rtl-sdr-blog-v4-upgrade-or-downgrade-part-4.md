@@ -35,6 +35,9 @@ I plan to conduct further validation and reproducibility tests,
 and will report the results in a future update.
 
 
+*****
+
+
 Regarding the FR24 ranking,
 the improvement in reception performance
 resulted in a noticeable jump in ranking.
@@ -184,7 +187,7 @@ systemctl list-timers | grep adsb-watchdog
 
 It is also recommended to enable FR24 alert emails:
 
-Offline Email: 1 hour✉️
+Offline Email: 1 hour ✉️
 
 
 Reliable operation often matters more than peak performance.
