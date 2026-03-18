@@ -40,7 +40,7 @@ the improvement in reception performance
 resulted in a noticeable jump in ranking.
 
 
-!(ranking2)[https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/ranking2.png]
+![ranking2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/ranking2.png)
 
 
 For those working with limited equipment,
@@ -58,7 +58,7 @@ In my case, this value is always above 95%.
 
 
 
-!(ranking1)[https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/ranking1.png]
+![ranking1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202603/ranking1.png)
 
 
 This is achieved using a simple watchdog script
