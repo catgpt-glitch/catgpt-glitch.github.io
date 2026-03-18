@@ -1,7 +1,5 @@
-**RTL-SDR Blog V4: Upgrade or Downgrade? – Part 4 (Final)**
-
-
 **Final part**
+
 
 In this series, I explored whether upgrading to the RTL-SDR Blog V4
 improves ADS-B reception under real-world conditions.
@@ -11,12 +9,15 @@ Based on my observations, I arrived at two working hypotheses.
 
 **Hypothesis 1**
 
+
 When using the official RTL-SDR Blog V4 driver,
 even lower-tier compatible dongles (in my case, an RTL2832-based clone)
 may show improved performance compared to
 the standard driver installed via apt repositories.
 
+
 **Hypothesis 2**
+
 
 As a result of Hypothesis 1,
 previously lost weak signals may now be received.
