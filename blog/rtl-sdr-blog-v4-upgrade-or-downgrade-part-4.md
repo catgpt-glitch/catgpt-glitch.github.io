@@ -71,7 +71,7 @@ that monitors the receiver status and recovers from stalls.
 *This does not handle hardware failures such as router outages.
 
 
-```
+```batch
 sudo tee /usr/local/bin/adsb-watchdog.sh >/dev/null <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
@@ -148,7 +148,7 @@ sudo chmod +x /usr/local/bin/adsb-watchdog.sh
 The script is executed periodically using systemd service and timer.
 
 
-```
+```batch
 sudo nano /etc/systemd/system/adsb-watchdog.service
 
 [Unit]
@@ -162,8 +162,11 @@ Environment=STALE_SEC=660
 Environment=HARD_SEC=1800
 Environment=MAX_REBOOTS=2
 ExecStart=/usr/local/bin/adsb-watchdog.sh
+```
 
-/etc/systemd/system/adsb-watchdog.timer
+
+```batch
+sudo nano /etc/systemd/system/adsb-watchdog.timer
 
 [Unit]
 Description=Run ADSB watchdog every 5 minutes
@@ -178,7 +181,7 @@ WantedBy=timers.target
 ```
 
 
-```
+```batch
 sudo systemctl daemon-reload
 sudo systemctl enable --now adsb-watchdog.timer
 systemctl list-timers | grep adsb-watchdog
