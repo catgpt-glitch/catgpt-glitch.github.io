@@ -70,13 +70,12 @@ that monitors the receiver status and recovers from stalls.
 *This does not handle hardware failures such as router outages.
 
 
-```bash
+```
 sudo tee /usr/local/bin/adsb-watchdog.sh >/dev/null <<'EOF'
 #!/usr/bin/env bash
-
 set -euo pipefail
 
-# "---- configuration ----"
+# ---- configuration ----
 STALE_SEC="${STALE_SEC:-660}"      # Detects a “stuck” state in 11 minutes (candidate for reboot)
 HARD_SEC="${HARD_SEC:-1800}"       # Reboot candidates in 30 minutes
 MAX_REBOOTS="${MAX_REBOOTS:-2}"    # Up to two automatic reboots
