@@ -91,7 +91,7 @@ now=$(date +%s)
 # Reading the Stats Timestamp from fr24feed-status
 ts_line=$(fr24feed-status 2>/dev/null | grep -E '^FR24 Stats Timestamp:' || true)
 if [[ -n "$ts_line" ]]; then
-  # 例: "FR24 Stats Timestamp: 2026-01-30 05:55:19."
+  # e.g. "FR24 Stats Timestamp: 2026-01-30 05:55:19."
   ts=$(echo "$ts_line" | sed -E 's/^FR24 Stats Timestamp: ([0-9-]+) ([0-9:]+).*/\1 \2/')
   epoch=$(date -d "$ts" +%s 2>/dev/null || echo 0)
 else
