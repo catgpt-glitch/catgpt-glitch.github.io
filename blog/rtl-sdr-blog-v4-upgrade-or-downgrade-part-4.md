@@ -149,7 +149,7 @@ The script is executed periodically using systemd service and timer.
 
 
 ```batch
-sudo nano /etc/systemd/system/adsb-watchdog.service
+#/etc/systemd/system/adsb-watchdog.service
 
 [Unit]
 Description=ADSB watchdog (restart/reboot on stall)
@@ -166,7 +166,7 @@ ExecStart=/usr/local/bin/adsb-watchdog.sh
 
 
 ```batch
-sudo nano /etc/systemd/system/adsb-watchdog.timer
+#/etc/systemd/system/adsb-watchdog.timer
 
 [Unit]
 Description=Run ADSB watchdog every 5 minutes
