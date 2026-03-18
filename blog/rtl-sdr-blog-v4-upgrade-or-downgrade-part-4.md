@@ -73,10 +73,10 @@ sudo tee /usr/local/bin/adsb-watchdog.sh >/dev/null <<'EOF'
 #!/usr/bin/env bash
 set -euo pipefail
 
-# ---- 設定 ----
-STALE_SEC="${STALE_SEC:-660}"      # 11分で「詰まり」判定（reboot候補）
-HARD_SEC="${HARD_SEC:-1800}"       # 30分で確実にreboot候補
-MAX_REBOOTS="${MAX_REBOOTS:-2}"    # 自動rebootは2回まで
+# ---- configuration ----
+STALE_SEC="${STALE_SEC:-660}"      # Detects a “stuck” state in 11 minutes (candidate for reboot)
+HARD_SEC="${HARD_SEC:-1800}"       # Reboot candidates in 30 minutes
+MAX_REBOOTS="${MAX_REBOOTS:-2}"    # Up to two automatic reboots
 STATE_DIR="/var/lib/adsb-watchdog"
 STAMP_FILE="$STATE_DIR/last_ok_epoch"
 REB_FILE="$STATE_DIR/reboot_count"
@@ -86,7 +86,7 @@ mkdir -p "$STATE_DIR"
 
 now=$(date +%s)
 
-# fr24feed-status から Stats Timestamp を読む（読めなければ失敗扱い）
+# Reading the Stats Timestamp from fr24feed-status
 ts_line=$(fr24feed-status 2>/dev/null | grep -E '^FR24 Stats Timestamp:' || true)
 if [[ -n "$ts_line" ]]; then
   # 例: "FR24 Stats Timestamp: 2026-01-30 05:55:19."
@@ -96,17 +96,17 @@ else
   epoch=0
 fi
 
-# epochが取れた＆更新されていればOKとして記録
+# Record it as OK if the epoch has been obtained and updated
 if [[ "$epoch" -gt 0 ]]; then
   echo "$epoch" > "$STAMP_FILE"
   exit 0
 fi
 
-# ここに来たら「timestamp取れない」＝詰まり疑い
+# If you get to this point and “can't get a timestamp,” it's likely a deadlock.
 last_ok=$(cat "$STAMP_FILE" 2>/dev/null || echo 0)
 age=$(( now - last_ok ))
 
-# last_okが無い/0なら、まずサービス再起動で様子見る
+# If `last_ok` is missing or 0, try restarting the service first to see what happens
 if [[ "$last_ok" -le 0 ]]; then
   logger -t "$LOGTAG" "no last_ok stamp; restarting services"
   systemctl restart dump1090-fa || true
@@ -115,7 +115,7 @@ if [[ "$last_ok" -le 0 ]]; then
   exit 0
 fi
 
-# 軽症：サービス再起動
+# Minor issue: Restart the service
 if [[ "$age" -ge "$STALE_SEC" && "$age" -lt "$HARD_SEC" ]]; then
   logger -t "$LOGTAG" "stale ${age}s; restarting services"
   systemctl restart dump1090-fa || true
@@ -124,7 +124,7 @@ if [[ "$age" -ge "$STALE_SEC" && "$age" -lt "$HARD_SEC" ]]; then
   exit 0
 fi
 
-# 重症：reboot（ただし回数制限）
+# Severe: Reboot (subject to a limit on the number of times)
 if [[ "$age" -ge "$HARD_SEC" ]]; then
   reboots=$(cat "$REB_FILE" 2>/dev/null || echo 0)
   if [[ "$reboots" -ge "$MAX_REBOOTS" ]]; then
@@ -196,7 +196,7 @@ Reliable operation often matters more than peak performance.
 Next, the focus shifts beyond the Earth.
 
 The next series will explore
-building a reception system for signals from the International Space Station (ISS),
+building a reception system for signals from the International Space Station🚀 (ISS),
 including tool development and signal tracking.
 
 Further observations are required to determine the dominant mechanism.
