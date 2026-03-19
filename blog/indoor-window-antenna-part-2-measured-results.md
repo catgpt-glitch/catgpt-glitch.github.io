@@ -56,11 +56,21 @@ Telescopic antenna
 ### Measured Results
 
 
-Statistics (early configuration)
-Aircraft seen: 557
-Max range: 66 nm
-Gain: 38–40 dB
-Antenna height: FL+70 inch (1788 mm)🐈️
+- Statistics (early configuration)
+
+
+- Aircraft seen: 557
+
+  
+- Max range: 66 nm
+
+  
+- Gain: 38–40 dB
+
+  
+- Antenna height: FL+70 inch (1788 mm)🐈️
+
+
 
 
 [← Back to Home](/)
