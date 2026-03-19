@@ -56,7 +56,7 @@ Telescopic antenna
 ### Measured Results
 
 
-- Statistics (early configuration)
+Statistics (early configuration)
 
 
 - Aircraft seen: 557
