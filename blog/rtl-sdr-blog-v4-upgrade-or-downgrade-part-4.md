@@ -200,13 +200,14 @@ Reliable operation often matters more than peak performance.
 *****
 
 
-Next, the focus shifts beyond the Earth🌍️
+Next, the focus shifts beyond the Earth🌏️
 
 The next series will explore
 building a reception system for signals from the International Space Station🚀 (ISS),
 including tool development and signal tracking.
 
 Further observations are required to determine the dominant mechanism.
+
 
 
 [← Back to Home](/)
