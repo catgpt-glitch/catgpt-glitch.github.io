@@ -192,6 +192,7 @@ systemctl list-timers | grep adsb-watchdog
 It is also recommended to enable FR24 alert emails:
 
 Offline Email: 1 hour 📨
+(I also use a smart plug🔌)
 
 
 Reliable operation often matters more than peak performance.
