@@ -67,6 +67,8 @@ This is achieved using a simple watchdog script
 that monitors the receiver status and recovers from stalls.
 
 *Use at your own risk.
+
+
 *This does not handle hardware failures such as router outages.
 
 
