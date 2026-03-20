@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Catudp's blog"
+title: "(ΦωΦ) Catudp's blog"
 ---
 
 Hi, I’m catudp🐈️
