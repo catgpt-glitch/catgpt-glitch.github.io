@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "(ΦωΦ) Catudp's blog"
+title: "Catudp's blog"
 ---
 
-# (ΦωΦ) Catudp's blog
+# Catudp's blog
 
 
 Hi, I’m catudp🐈️
