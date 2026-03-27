@@ -53,6 +53,8 @@ Raspberry Pi OS (Bookworm, 64-bit Lite – headless configuration)
 
 
 Applications:
+
+
 • dump1090 – ADS-B signal decoder  
 • fr24feed – FlightRadar24 feeder software  
 • Tailscale – VPN for remote access and operation
