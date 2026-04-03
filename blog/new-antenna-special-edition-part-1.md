@@ -49,7 +49,8 @@ It had a good reputation online, and I had always wanted to try it.
 
 And then—
 
-the results were beyond anything I expected🐈️
+the results were… unexpected.
+🐈️
 
 
 ![specialedition1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/specialedition1.png)
