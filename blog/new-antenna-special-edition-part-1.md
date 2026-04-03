@@ -49,8 +49,14 @@ It had a good reputation online, and I had always wanted to try it.
 
 And then—
 
-the results were… unexpected.
+the results were…
+
+
+unexpected.
 🐈️
+
+
+I did not expect a small $4 antenna to change the entire reception pattern.
 
 
 ![specialedition1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/specialedition1.png)
