@@ -19,6 +19,10 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 *****
 
 
+**03 Apr, 2026**
+[New Antenna – Special Edition Part 1](blog/new-antenna-special-edition-part-1.md)
+
+
 **18 Mar, 2026**
 [RTL-SDR Blog V4: Upgrade or Downgrade? – Part 4 (Final)](blog/rtl-sdr-blog-v4-upgrade-or-downgrade-part-4.md)
 
