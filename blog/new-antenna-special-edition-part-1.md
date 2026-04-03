@@ -59,9 +59,6 @@ unexpected.
 I did not expect a small $4 antenna to change the entire reception pattern.
 
 
-Something felt off.
-
-
 ![specialedition1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/specialedition1.png)
 
 
