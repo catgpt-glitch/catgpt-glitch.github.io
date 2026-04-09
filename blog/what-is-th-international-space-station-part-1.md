@@ -123,5 +123,7 @@ In this series, I will attempt to receive signals from the ISS using a very mini
 Can we capture voices from 400 km above Earth.
 
 
+That is the challenge.
 
-That is the challenge.[← Back to Home](/)
+
+[← Back to Home](/)
