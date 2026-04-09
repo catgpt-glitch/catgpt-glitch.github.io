@@ -3,7 +3,7 @@
 The **International Space Station (ISS)** is a modular space station built and operated as a multinational project.
 
 
-![iss1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/iss1.jpg
+![iss1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/iss1.jpg)
 
 
 It is a collaboration between five space agencies:
