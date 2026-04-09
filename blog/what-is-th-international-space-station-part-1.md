@@ -120,7 +120,8 @@ In this series, I will attempt to receive signals from the ISS using a very mini
 - RTL-SDR dongle
 - Telescopic dipole antenna
 
-Can we capture voices from 400 km above Earth?
+Can we capture voices from 400 km above Earth.
+
 
 
 That is the challenge.[← Back to Home](/)
