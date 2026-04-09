@@ -47,6 +47,11 @@ To maintain its orbit, the ISS performs periodic **reboost maneuvers**.
 
 ## 🛰️ How Close Is It, Really?
 
+Recently, Starlink has been gaining significant attention.
+It also operates in Low Earth Orbit (LEO), at an altitude of around 550 km.
+Today, approximately 10,000 satellites are in operation, forming a vast constellation around the Earth.
+
+
 For comparison:
 
 👉 Geostationary satellites: ~36,000 km  
