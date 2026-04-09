@@ -19,7 +19,7 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 ---
 
 
-**🚀 Satellite Receiver Series**
+**🚀 Satellite Reception Series**
 
 
 **09 Apr, 2026**
@@ -28,7 +28,7 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 ---
 
 
-**✈️ ADS-B Receiver Series**
+**✈️ ADS-B Reception Series**
 
 
 **03 Apr, 2026**
