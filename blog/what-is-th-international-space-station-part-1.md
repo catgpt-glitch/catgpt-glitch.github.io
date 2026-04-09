@@ -6,7 +6,7 @@ The **International Space Station (ISS)** is a modular space station built and o
 ![iss1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/iss1.jpg)
 
 
-It is a collaboration between five space agencies:
+It is a joint project involving five space agencies:
 
 - NASA (United States)
 - Roscosmos (Russia)
@@ -75,9 +75,7 @@ Surprisingly, it even has:
 
 **Internet connectivity**
 
-In other words, the ISS is:
-
-**A human outpost in space**
+In other words, the ISS is **a human outpost in space**
 
 ---
 
