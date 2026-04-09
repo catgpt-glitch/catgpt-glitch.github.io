@@ -101,7 +101,7 @@ Other operations include:
 
 ---
 
-## ⚡ The Challenge: Doppler Shift
+## 🚨 The Challenge: Doppler Shift
 
 The ISS moves at about **7.7 km/s**, which causes a shift in the received frequency.
 
