@@ -1,4 +1,4 @@
-## 🚀 What Is the International Space Station (ISS)? - Part 1
+## 🚀 What Is the International Space Station (ISS)? – Part 1
 
 The **International Space Station (ISS)** is a modular space station built and operated as a multinational project.
 
