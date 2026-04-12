@@ -25,12 +25,12 @@ I settled on **44.5 dB** as the optimal value.
 🆚 Before (03-19) vs After (03-21)
 
 
-![2026-03-19_1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-19_1.png)
-![2026-03-19_2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-19_2.png)
-![2026-03-19_3](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-19_3.png)
-![2026-03-21_1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-21_1.png)
-![2026-03-21_2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-21_2.png)
-![2026-03-21_3](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-3-21_3.png)
+![2026-03-19_1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-19_1.png)
+![2026-03-19_2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-19_2.png)
+![2026-03-19_3](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-19_3.png)
+![2026-03-21_1](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-21_1.png)
+![2026-03-21_2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-21_2.png)
+![2026-03-21_3](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/2026-03-21_3.png)
 
 
 ### ■ Aircraft Seen  
