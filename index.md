@@ -31,6 +31,11 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 **✈️ ADS-B Reception Series**
 
 
+
+**12 Apr, 2026**
+[New Antenna – Special Edition Part 2](blog/new-antenna-special-edition-part-2.md)
+
+
 **03 Apr, 2026**
 [New Antenna – Special Edition Part 1](blog/new-antenna-special-edition-part-1.md)
 
