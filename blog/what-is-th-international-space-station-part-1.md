@@ -119,7 +119,7 @@ to properly receive signals during a pass.
 
 In this series, I will attempt to receive signals from the ISS using a very minimal setup:
 
-- Raspberry Pi
+- Raspberry Pi Zero 2 W
 - RTL-SDR dongle
 - Telescopic dipole antenna
 
