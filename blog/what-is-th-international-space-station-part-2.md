@@ -50,6 +50,8 @@ visual observation
 To predict passes, you can use:
 
 smartphone satellite tracking apps 📱
+
+
 websites such as N2YO.com
 
 I also plan to add pass prediction features to my own ISS tracking tool.
@@ -169,7 +171,11 @@ Indoor antennas may make reception significantly more difficult.
 To improve my chances, I decided to build a tool for Raspberry Pi that will:
 
 automatically generate ISS pass schedules
+
+
 track Doppler shift
+
+
 record received audio
 
 
