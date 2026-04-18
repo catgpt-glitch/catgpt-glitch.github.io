@@ -120,6 +120,8 @@ Because of this, it is not something you can reliably receive on a daily basis.
 To better monitor ISS activity, it is recommended to also listen to:
 
 the UHF crossband repeater downlink (437.8 MHz)
+
+
 the packet (APRS) frequency at 145.825 MHz
 
 By monitoring multiple frequencies, you can significantly increase your chances of detecting ISS activity 🚀
