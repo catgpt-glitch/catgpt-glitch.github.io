@@ -106,7 +106,9 @@ Sleep: around 21:30 UTC
 
 Their daily routine is managed in 5-minute increments.
 
+
 ### 📡 Radio Operations on the ISS
+
 
 ISS voice communication on 145.800 MHz (FM) is relatively rare outside of special events such as:
 
@@ -121,6 +123,7 @@ the UHF crossband repeater downlink (437.8 MHz)
 the packet (APRS) frequency at 145.825 MHz
 
 By monitoring multiple frequencies, you can significantly increase your chances of detecting ISS activity 🚀
+
 
 The ISS is not always talking—but it is almost always transmitting something.
 
