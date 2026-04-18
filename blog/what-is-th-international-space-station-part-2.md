@@ -17,8 +17,8 @@ It is typically visible for a short period:
 
 This is when:
 
-the sky is dark enough, and
-the ISS is still illuminated by sunlight and reflects it toward Earth🌎️
+- the sky is dark enough, and
+- the ISS is still illuminated by sunlight and reflects it toward Earth🌎️
 
 
 ---
@@ -31,34 +31,27 @@ The timing and direction of ISS visibility and radio communication vary dependin
 
 A pass refers to the period when the ISS is above the horizon and:
 
-radio communication is possible, and
-sometimes it is also visible
+- radio communication is possible, and
+- sometimes it is also visible
 
 Key terms:
 
-AOS (Acquisition of Signal): the moment the ISS rises above the horizon
-
-
-LOS (Loss of Signal): the moment it sets below the horizon
-
-
-TCA (Time of Closest Approach): when the ISS is closest to the observer
-
+- AOS (Acquisition of Signal): the moment the ISS rises above the horizon
+- LOS (Loss of Signal): the moment it sets below the horizon
+- TCA (Time of Closest Approach): when the ISS is closest to the observer
 
 
 One of the most important factors is the maximum elevation angle.
 
 **Higher elevation = better chances for both:**
 
-radio reception (VHF/UHF line-of-sight)
-visual observation
+- radio reception (VHF/UHF line-of-sight)
+- visual observation
 
 To predict passes, you can use:
 
-smartphone satellite tracking apps 📱
-
-
-websites such as N2YO.com
+- smartphone satellite tracking apps 📱
+- websites such as N2YO.com
 
 I also plan to add pass prediction features to my own ISS tracking tool.
 
@@ -73,8 +66,8 @@ Another critical factor is the daily schedule of the ISS crew.
 
 Some systems, such as:
 
-repeaters
-SSTV (image transmission)
+- repeaters
+- SSTV (image transmission)
 
 may operate automatically and can sometimes be received continuously.
 
@@ -90,19 +83,11 @@ The ISS operates on Coordinated Universal Time (UTC).
 
 Typical schedule:
 
-Wake-up: around 06:00 UTC
-
-
-Daily planning conference: 07:30 UTC
-
-
-Work period: 08:00–12:00 UTC
-
-
-Afternoon: continued work, maintenance, and exercise
-
-
-Sleep: around 21:30 UTC
+- Wake-up: around 06:00 UTC
+- Daily planning conference: 07:30 UTC
+- Work period: 08:00–12:00 UTC
+- Afternoon: continued work, maintenance, and exercise
+- Sleep: around 21:30 UTC
 
 Their daily routine is managed in 5-minute increments.
 
@@ -115,17 +100,15 @@ Their daily routine is managed in 5-minute increments.
 
 ISS voice communication on 145.800 MHz (FM) is relatively rare outside of special events such as:
 
-ARISS school contacts
-SSTV transmissions
+- ARISS school contacts
+- SSTV transmissions
 
 Because of this, it is not something you can reliably receive on a daily basis.
 
 To better monitor ISS activity, it is recommended to also listen to:
 
-the UHF crossband repeater downlink (437.8 MHz)
-
-
-the packet (APRS) frequency at 145.825 MHz
+- the UHF crossband repeater downlink (437.8 MHz)
+- the packet (APRS) frequency at 145.825 MHz
 
 By monitoring multiple frequencies, you can significantly increase your chances of detecting ISS activity 🚀
 
@@ -134,9 +117,9 @@ The ISS is not always talking—but it is almost always transmitting something.
 
 There is no fully public, fixed schedule because operations may change due to:
 
-spacewalks (EVAs)
-maintenance
-mission priorities
+- spacewalks (EVAs)
+- maintenance
+- mission priorities
 
 Therefore, it is important to check:
 
@@ -167,9 +150,9 @@ The ISS is equipped with amateur radio systems such as:
 
 These radios are used for:
 
-direct voice communication
-school contacts (scheduled communication with students)
-communication with amateur radio operators worldwide
+- direct voice communication
+- school contacts (scheduled communication with students)
+- communication with amateur radio operators worldwide
 
 Typical transmit power:
 
@@ -177,10 +160,8 @@ Typical transmit power:
 
 Main signals of interest:
 
-**Voice (direct): 145.800 MHz FM 👈**
-
-
-**SSTV (image transmission): 145.800 MHz FM 👈**
+- **Voice (direct): 145.800 MHz FM 👈**
+- **SSTV (image transmission): 145.800 MHz FM 👈**
 
 
 **👉 These are the signals I will be targeting.**
@@ -197,8 +178,8 @@ so reception depends on catching the right pass.
 
 For reception, the following are recommended:
 
-handheld or mobile radios
-directional antennas
+- handheld or mobile radios
+- directional antennas
 
 Indoor antennas may make reception significantly more difficult.
 
@@ -211,13 +192,9 @@ Indoor antennas may make reception significantly more difficult.
 
 To improve my chances, I decided to build a tool for Raspberry Pi that will:
 
-automatically generate ISS pass schedules
-
-
-track Doppler shift
-
-
-record received audio
+- automatically generate ISS pass schedules
+- track Doppler shift
+- record received audio
 
 
 👉 This tool will be the core of my experiment.
