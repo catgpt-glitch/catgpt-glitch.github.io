@@ -106,7 +106,7 @@ Sleep: around 21:30 UTC
 
 Their daily routine is managed in 5-minute increments.
 
-## 📡 Radio Operations on the ISS
+### 📡 Radio Operations on the ISS
 
 As mentioned above, the ISS does not continuously transmit voice signals.
 
