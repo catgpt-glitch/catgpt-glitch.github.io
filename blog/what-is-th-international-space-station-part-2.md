@@ -18,7 +18,7 @@ It is typically visible for a short period:
 This is when:
 
 the sky is dark enough, and
-the ISS is still illuminated by sunlight and reflects it toward Earth
+the ISS is still illuminated by sunlight and reflects it toward Earth🌎️
 
 
 ---
@@ -37,8 +37,14 @@ sometimes it is also visible
 Key terms:
 
 AOS (Acquisition of Signal): the moment the ISS rises above the horizon
+
+
 LOS (Loss of Signal): the moment it sets below the horizon
+
+
 TCA (Time of Closest Approach): when the ISS is closest to the observer
+
+
 
 One of the most important factors is the maximum elevation angle.
 
@@ -85,9 +91,17 @@ The ISS operates on Coordinated Universal Time (UTC).
 Typical schedule:
 
 Wake-up: around 06:00 UTC
+
+
 Daily planning conference: 07:30 UTC
+
+
 Work period: 08:00–12:00 UTC
+
+
 Afternoon: continued work, maintenance, and exercise
+
+
 Sleep: around 21:30 UTC
 
 Their daily routine is managed in 5-minute increments.
