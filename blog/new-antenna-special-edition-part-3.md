@@ -5,7 +5,9 @@ the ones related to the Mount Fuji reflection hypothesis 🗻
 Three distinct routes emerged from the data: **A, B, and C**.  
 Interestingly, these align with known airway structures visible in FlightRadar24 map layers.
 
-![ABC](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/ABC.png)
+
+[![](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/ABC.png)](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202604/ABC.png)
+
 
 ---
 
