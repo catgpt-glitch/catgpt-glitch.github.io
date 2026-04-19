@@ -148,4 +148,7 @@ The signal disappears near the obstacle and reappears behind it, consistent with
 - NE anomaly → Possibly a different mechanism (reflection or abnormal propagation)
 
 
+Further observation will be needed to determine the dominant propagation mechanism.
+
+
 [← Back to Home](/)
