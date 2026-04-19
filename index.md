@@ -37,6 +37,10 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 
 
 
+**19 Apr, 2026**
+[New Antenna – Special Edition Part 3](blog/new-antenna-special-edition-part-3.md)
+
+
 **12 Apr, 2026**
 [New Antenna – Special Edition Part 2](blog/new-antenna-special-edition-part-2.md)
 
