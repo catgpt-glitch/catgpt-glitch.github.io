@@ -149,6 +149,7 @@ The signal disappears near the obstacle and reappears behind it, consistent with
 
 
 Further observation will be needed to determine the dominant propagation mechanism.
+
 This remains an observational hypothesis and requires further controlled experiments.
 
 
