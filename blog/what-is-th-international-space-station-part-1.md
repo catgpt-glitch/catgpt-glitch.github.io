@@ -96,7 +96,7 @@ In addition to dedicated communication systems, the ISS also operates on **amate
 Other operations include:
 
 - Digipeater: 145.825 MHz
-- SSTV (image transmission): 145.800 MHz
+- SSTV (image transmission): 437.550 MHz
 - UHF band: 437.800 MHz (used in some cases)
 
 ---
