@@ -161,7 +161,7 @@ Typical transmit power:
 Main signals of interest:
 
 - **Voice (direct): 145.800 MHz FM 👈**
-- **SSTV (image transmission): 145.800 MHz FM 👈**
+- **SSTV (image transmission): 437.550 MHz FM 👈**
 
 
 **👉 These are the signals I will be targeting.**
