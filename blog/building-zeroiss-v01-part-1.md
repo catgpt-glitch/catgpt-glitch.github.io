@@ -129,7 +129,11 @@ The next problem was that restarting `rtl_fm` every time also created multiple W
 To fix this, I changed the structure to a `tee / FIFO` pipeline system:
 
 ```
-rtl_fm   ↓FIFO (pipe)   ↓ffmpeg (recording)
+rtl_fm
+   ↓
+FIFO (pipe)
+   ↓
+ffmpeg (recording)
 ```
 
 Now only `rtl_fm` restarts during frequency changes.
