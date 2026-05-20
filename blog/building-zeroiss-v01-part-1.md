@@ -1,7 +1,7 @@
 ## Building ZeroISS v0.1
 
 
-![iss04](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/iss04.png)
+![iss004](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/iss004.png)
 
 
 I recently started learning programming and Raspberry Pi (Linux).
