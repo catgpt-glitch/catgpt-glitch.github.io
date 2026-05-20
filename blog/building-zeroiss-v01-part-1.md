@@ -30,7 +30,10 @@ The goals for ZeroISS were:
 To begin with, I decided to create the following files:
 
 ```
-zeroiss.py   (main Python application)config.ini   (configuration file)record.sh    (recording script)schedule.csv (pass schedule file)
+zeroiss.py   (main Python application)
+config.ini   (configuration file)
+record.sh    (recording script)
+schedule.csv (pass schedule file)
 ```
 
 Originally, I planned to stream and record the `rtl_fm` audio from a web page or VLC on another device.
