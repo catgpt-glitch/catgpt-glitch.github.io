@@ -19,10 +19,6 @@ So I decided not to fix it.
 
 ---
 
-
-![code2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/code2.png)
-
-
 The goals for ZeroISS were:
 
 - A simple and lightweight tool that can run even on a Raspberry Pi Zero
@@ -129,7 +125,6 @@ To fix this, I changed the structure to a `tee / FIFO` pipeline system:
 rtl_fm   ↓FIFO (pipe)   ↓ffmpeg (recording)
 ```
 
-
 Now only `rtl_fm` restarts during frequency changes.
 
 This allowed the recording process itself to remain active while only switching the receive frequency.
@@ -139,6 +134,9 @@ As a result:
 👉 The recording stays as a single WAV file.
 
 ---
+
+![code2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/code2.png)
+
 
 At the time, I did not fully understand Linux process management or pipe handling, so reaching this point took quite a bit of trial and error.
 
