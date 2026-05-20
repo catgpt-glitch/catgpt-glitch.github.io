@@ -93,7 +93,11 @@ That means the initial version uses manually entered pass times and frequencies 
 Example:
 
 ```
-unix_time,freq_hz1772948100,1458030001772948200,1458000001772948300,1457970001772948400,145796000
+unix_time,freq_hz
+1772948100,145803000
+1772948200,145800000
+1772948300,145797000
+1772948400,145796000
 ```
 
 The first frequency switch worked correctly:
