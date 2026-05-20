@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "(ΦωΦ) Catudp's blog"
+title: "Catudp's blog"
 ---
 
 
-# (ΦωΦ) Catudp's blog
+# Catudp's blog
 
 
 Hi, I’m catudp🐈️
@@ -20,6 +20,10 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 
 
 **🚀 Satellite Reception Series**
+
+
+**20 May, 2026**
+[Building ZeroISS v0.1 – Part 1](blog/building-zeroiss-v01-part-1.md)
 
 
 **17 Apr, 2026**
