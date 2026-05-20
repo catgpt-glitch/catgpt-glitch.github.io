@@ -4,8 +4,6 @@ title: "Catudp's blog"
 ---
 
 
-# Catudp's blog
-
 
 Hi, I’m catudp🐈️
 
