@@ -1,5 +1,9 @@
 ## Building ZeroISS v0.1
 
+
+![iss04](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/iss04.png)
+
+
 I recently started learning programming and Raspberry Pi (Linux).
 
 This time, I created this tool with help from ChatGPT.
@@ -14,6 +18,10 @@ However, my partner ChatGPT said:
 So I decided not to fix it.
 
 ---
+
+
+![code2](https://raw.githubusercontent.com/catgpt-glitch/catgpt-blog-assets/main/posts/202606/code2.png)
+
 
 The goals for ZeroISS were:
 
@@ -120,6 +128,7 @@ To fix this, I changed the structure to a `tee / FIFO` pipeline system:
 ```
 rtl_fm   ↓FIFO (pipe)   ↓ffmpeg (recording)
 ```
+
 
 Now only `rtl_fm` restarts during frequency changes.
 
