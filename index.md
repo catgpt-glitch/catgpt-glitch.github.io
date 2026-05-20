@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Catudp's blog"
+title: "CatUDP'S blog"
 ---
 
 
 
-Hi, I’m catudp🐈️
+Hi, I’m CatUDP🐈️
 
 
 I tinker with Raspberry Pi, SDR, and ADS-B reception.
