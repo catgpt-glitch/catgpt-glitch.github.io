@@ -7,7 +7,7 @@ title: "CatUDP'S blog"
 # CatUDP'S blog
 
 
-Hi, I’m CatUDP🐈️
+Hi, I’m CatUDP 🐈️
 
 
 I tinker with Raspberry Pi, SDR, and ADS-B reception.
