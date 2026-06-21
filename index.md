@@ -23,7 +23,7 @@ Small experiments, simple notes, and occasional radio/antenna DIY. 🍵
 
 
 **21 Jun, 2026**
-[Building ZeroISS v0.1 – Part 1](blog/building-zeroiss-v01-part-2.md)
+[Building ZeroISS v0.1 – Part 2](blog/building-zeroiss-v01-part-2.md)
 
 
 **20 May, 2026**
